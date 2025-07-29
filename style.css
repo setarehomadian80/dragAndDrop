@@ -28,43 +28,43 @@ body {
 
         >div {
             &:nth-of-type(1) {
-                background-color: rgba(108, 108, 237, 0.8);
+                background-color: rgba(209, 73, 73, 0.8);
             }
 
             &:nth-of-type(2) {
-                background-color: rgba(15, 15, 41, 0.8);
+                background-color: rgba(229, 38, 38, 0.8);
             }
 
             &:nth-of-type(3) {
-                background-color: rgba(6, 6, 243, 0.8);
+                background-color: rgba(209, 150, 73, 0.8);
             }
 
             &:nth-of-type(4) {
-                background-color: rgba(140, 237, 108, 0.8);
+                background-color: rgba(168, 209, 73, 0.8);
             }
 
             &:nth-of-type(5) {
-                background-color: rgba(237, 108, 160, 0.8);
+                background-color: rgba(73, 209, 123, 0.8);
             }
 
             &:nth-of-type(6) {
-                background-color: rgba(205, 237, 108, 0.8);
+                background-color: rgba(73, 209, 186, 0.8);
             }
 
             &:nth-of-type(7) {
-                background-color: rgba(237, 108, 108, 0.8);
+                background-color: rgba(73, 125, 209, 0.8);
             }
 
             &:nth-of-type(8) {
-                background-color: rgb(6, 80, 2);
+                background-color: rgba(65, 57, 219, 0.8);
             }
 
             &:nth-of-type(9) {
-                background-color: rgba(90, 98, 68, 0.8);
+                background-color: rgba(173, 73, 209, 0.8);
             }
 
             &:nth-of-type(10) {
-                background-color: rgba(167, 0, 0, 0.8);
+                background-color: rgba(220, 90, 144, 0.8);
             }
 
 
